@@ -6,10 +6,13 @@ body {
   width: 100%;
   background-color: #151514;
   font-family: "Inter", sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .container {
   width: 20%;
-  margin: 8% auto 0px auto;
   border-radius: 10px;
   background-color: #1f1e1e;
   text-align: center;
